@@ -20,6 +20,10 @@ span {
     background: #E50914;
 }
 
+.left, .right {
+    background: #B01E23;
+}
+
 .left {
     left: 0;
     bottom: 0;
